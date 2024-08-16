@@ -64,5 +64,6 @@ The data set includes various Blue Mountain's real estate information, includes:
 - Over the 26 years period, median house price in Blue Mountain rose in all 3 house types ( all dwellings, non-strata dwellings, and non-strata dwellings).
 - The house price in Blue Mountain increased slightly during the period, but it is a stable and sustainable area to invest in. Moreover, Blue Mountain is one of the most popular tourist attraction, so it would be highly profitable if clients can run the estate as airbnb for tourists.
 
-
+## CONTACT
+If you have any questions regarding this projects, please feel free to email me at mkhanh545@gmail.com.
 
