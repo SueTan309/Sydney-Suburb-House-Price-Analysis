@@ -54,5 +54,15 @@ The data set includes various Blue Mountain's real estate information, includes:
   
   <img width="488" alt="Screenshot 2024-08-16 at 12 28 55 PM" src="https://github.com/user-attachments/assets/a4e9faff-3c7c-42c2-ac6a-f7b35e8aa292">
 
+### Overall Increase In Median House Price From 2016 to 2021
+- Over the 5 years period, the median house price for all dwellings in Blue Mountain increased from $579,000 to $795,000
+- For strata dwellings, the median price rose from $521,000 to $555,000
+- Non-strata dwellings saw a more significant increase, with prices rising from $591,000 to $805,000
+
+### RECOMMENDATION
+- According to the Advantages and Disadvantages before, Blue Mountain is one of the most potential area increasing in the future.  With the data and topography, **I am highly recommend clients to invest in non-strata dwellings**.
+- Over the 26 years period, median house price in Blue Mountain rose in all 3 house types ( all dwellings, non-strata dwellings, and non-strata dwellings).
+- The house price in Blue Mountain increased slightly during the period, but it is a stable and sustainable area to invest in. Moreover, Blue Mountain is one of the most popular tourist attraction, so it would be highly profitable if clients can run the estate as airbnb for tourists.
+
 
 
