@@ -65,5 +65,5 @@ The data set includes various Blue Mountain's real estate information, includes:
 - The house price in Blue Mountain increased slightly during the period, but it is a stable and sustainable area to invest in. Moreover, Blue Mountain is one of the most popular tourist attraction, so it would be highly profitable if clients can run the estate as airbnb for tourists.
 
 ## CONTACT
-If you have any questions regarding this projects, please feel free to email me at mkhanh545@gmail.com.
+If you have any questions regarding this projects, please feel free to email me at sue.tan309@gmail.com
 
